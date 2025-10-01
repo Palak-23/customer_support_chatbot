@@ -1,6 +1,6 @@
 # Customer Support Chatbot
 
-An intelligent AI-powered customer support chatbot built using Intent Classification, RAG (Retrieval-Augmented Generation), and conversation management techniques.
+An intelligent AI-powered customer support chatbot built using Intent Classification, RAG (Retrieval-Augmented Generation), and conversation management techniques.                                                                                                         Deployed Link -- https://palak-23-customer-support-chatbot-app-ryawox.streamlit.app/
 
 ## Features
 

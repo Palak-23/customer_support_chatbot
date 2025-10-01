@@ -38,12 +38,7 @@ customer-support-chatbot/
 ├── README.md                       # Project documentation
 ├── data/
 │   ├── intents.csv                 # Intent training data (90 examples)
-│   └── faq_knowledge_base.csv      # FAQ database (70+ entries)
-├── models/                         # Generated after setup
-│   ├── intent_classifier.pkl       # Trained classifier
-│   ├── vectorizer.pkl              # TF-IDF vectorizer
-│   ├── mlb.pkl                     # Multi-label binarizer
-│   └── faiss_index/                # FAISS vector store
+│   └── faq_knowledge_base.csv      # FAQ database (70+ entries)               
 ├── src/
 │   ├── intent_predictor.py         # Intent classification
 │   ├── entity_extractor.py         # Entity extraction

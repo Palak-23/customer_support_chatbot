@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+joblib
+python-dateutil
+dateparser
+regex
+streamlit
+sentence-transformers
+faiss-cpu

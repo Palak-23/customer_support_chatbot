@@ -1,0 +1,91 @@
+text,intent
+I want to check my bill,billing
+How much do I owe,billing
+What is my current balance,billing
+Show me my invoice,billing
+I need to see my billing statement,billing
+When is my payment due,billing
+What payment methods do you accept,billing
+How do I pay my bill,billing
+Can I get a refund,billing
+Why was I charged,billing
+I was double charged,billing
+How do I cancel my subscription,billing
+What are your pricing plans,billing
+Do you offer discounts,billing
+I need a receipt,billing
+Update my credit card,billing
+Change payment method,billing
+View billing history,billing
+Download my invoice,billing
+Set up automatic payments,billing
+My product is not working,technical
+The app keeps crashing,technical
+I cannot log in,technical
+How do I reset my password,technical
+The software will not update,technical
+I am getting an error message,technical
+Internet connection issues,technical
+The device will not turn on,technical
+How do I install the app,technical
+System is running slow,technical
+I forgot my password,technical
+Cannot download the file,technical
+The page will not load,technical
+How do I troubleshoot this,technical
+Technical support needed,technical
+App freezes constantly,technical
+Cannot connect to server,technical
+Installation failed,technical
+Software bug report,technical
+System error occurred,technical
+How do I change my email,account
+I want to update my profile,account
+Can I change my username,account
+How do I delete my account,account
+I forgot my username,account
+Update my personal information,account
+Add a family member to account,account
+Where is my order history,account
+How do I view my account details,account
+I need to verify my account,account
+Can I merge two accounts,account
+How do I change my password,account
+Update my address,account
+Change my phone number,account
+Manage account settings,account
+Edit profile picture,account
+View account activity,account
+Update preferences,account
+Link social media account,account
+Enable two factor authentication,account
+I am not satisfied with the service,complaints
+I received a damaged product,complaints
+The quality is poor,complaints
+I want to file a complaint,complaints
+Your service is terrible,complaints
+I am very disappointed,complaints
+This is unacceptable,complaints
+I demand a refund,complaints
+I want to speak to a manager,complaints
+The customer service was rude,complaints
+My order never arrived,complaints
+Wrong item was delivered,complaints
+I have been waiting too long,complaints
+This is not what I ordered,complaints
+I am extremely frustrated,complaints
+Product does not match description,complaints
+Poor customer experience,complaints
+Shipping took forever,complaints
+Item arrived broken,complaints
+Unsatisfied with purchase,complaints
+I have a billing issue with product X,billing
+Cannot login and need to check my bill,technical|billing
+I want to cancel subscription and get refund,billing
+My account was charged but product not working,technical|billing
+Update my email and check payment status,account|billing
+The app crashes when I try to pay,technical|billing
+I cannot access my account to see the bill,technical|account
+Delete my account and refund my money,account|billing
+Technical issue with billing portal,technical|billing
+Cannot reset password to check invoice,technical|billing

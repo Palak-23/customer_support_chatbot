@@ -10,6 +10,11 @@ import shutil
 from datetime import datetime
 import time
 
+# Auto-setup models if they don't exist
+if not os.path.exists('models/intent_classifier.pkl'):
+    import setup
+    setup.setup()
+
 # Add src to path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
 
